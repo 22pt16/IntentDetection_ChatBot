@@ -1,0 +1,168 @@
+"question", intent
+"Can you recommend some books on self-improvement?", advice
+"Can you suggest some ways to manage my time?", advice
+"How can I improve my relationships?", advice
+"What are some tips for staying organized?", advice
+"What are some ways to stay positive?", advice
+"I can't shake this feeling of anxiety.", anxiety
+"I feel lost and unsure about my path.", anxiety
+"I feel overwhelmed with everything going on.", anxiety
+"I'm anxious about the upcoming interview.", anxiety
+"I'm feeling overwhelmed with my workload.", anxiety
+"I'm feeling really anxious about my exam.", anxiety
+"I'm feeling really anxious about the future.", anxiety
+"I'm feeling really anxious about this challenge.", anxiety
+"I'm feeling really anxious about this decision.", anxiety
+"I'm feeling really anxious about this event.", anxiety
+"I'm feeling really anxious about this situation.", anxiety
+"I'm feeling really frustrated with this situation.", anxiety
+"I'm feeling really overwhelmed with emotions.", anxiety
+"I'm feeling really overwhelmed with responsibilities.", anxiety
+"I'm feeling really uncertain about my abilities.", anxiety
+"I'm feeling really uncertain about my future.", anxiety
+"I'm feeling very jittery and restless.", anxiety
+"I'm having trouble sleeping due to stress.", anxiety
+"I'm so stressed out about my project.", anxiety
+"I'm struggling to balance work and life.", anxiety
+"I'm worried about my financial situation.", anxiety
+"I'm worried about my future prospects.", anxiety
+"I'm worried about my mental health.", anxiety
+"I'm worried about my physical health.", anxiety
+"I'm worried about the consequences of my actions.", anxiety
+"Can you break that down for me?", clarification
+"Can you explain that again?", clarification
+"Can you explain that in simpler terms?", clarification
+"Can you give me a definition of that term?", clarification
+"Can you give me an example?", clarification
+"Can you provide more context?", clarification
+"Can you provide more information on that topic?", clarification
+"Can you provide more information?", clarification
+"Did I understand that correctly?", clarification
+"I'm having trouble following, can you summarize?", clarification
+"I'm having trouble understanding, can you clarify?", clarification
+"I'm not sure I understand the context, can you explain?", clarification
+"I'm not sure I understand, can you clarify?", clarification
+"I'm not sure I understand, can you give an example?", clarification
+"I'm not sure what you mean, can you explain?", clarification
+"I just need someone to talk to.", depression
+"I want to talk about my feelings.", depression
+"I'm feeling a bit down today.", depression
+"I'm feeling really burnt out.", depression
+"I'm feeling really down and depressed.", depression
+"I'm feeling really lonely right now.", depression
+"I'm feeling really sad and hopeless.", depression
+"I'm feeling really stuck in this situation.", depression
+"I'm feeling really unhappy with my current life.", depression
+"I'm feeling really unhappy with my current situation.", depression
+"I'm having a tough time coping with everything.", depression
+"I'm looking for support during this tough time.", depression
+"I'm really struggling to keep my head up.", depression
+"I'm struggling to find a sense of purpose.", depression
+"I'm struggling to find confidence in myself.", depression
+"I'm struggling to find meaning in life.", depression
+"I'm struggling to find my place in the world.", depression
+"I'm struggling to find my purpose in life.", depression
+"I'm struggling to find peace of mind.", depression
+"I'm struggling with my mental health.", depression
+"Can you recommend a good book to read to take my mind off things?", distraction
+"Can you recommend a good book to read?", distraction
+"Can you recommend a good movie to watch to take my mind off things?", distraction
+"Can you show me a funny video to take my mind off things?", distraction
+"Can you suggest a fun activity to take my mind off things?", distraction
+"Can you suggest a fun activity?", distraction
+"Can you suggest a game to play to take my mind off things?", distraction
+"Can you tell me a joke to take my mind off things?", distraction
+"Can you tell me a joke?", distraction
+"I need a break from my thoughts, can you suggest some ways to relax?", distraction
+"I need a distraction from my thoughts, can you suggest some ways?", distraction
+"I need a distraction from my thoughts.", distraction
+"I need something to do to take my mind off things, can you provide some ideas?", distraction
+"I need something to take my mind off things, can you provide some suggestions?", distraction
+"I need something to take my mind off things.", distraction
+"I'm feeling really anxious about this situation.", empathy
+"I'm feeling really lonely today.", empathy
+"I'm feeling really sad and hopeless.", empathy
+"I'm overwhelmed with everything going on.", empathy
+"I'm struggling to cope with my emotions.", empathy
+"I need some encouragement to keep going.", encouragement
+"I need some support to stay motivated.", encouragement
+"I'm feeling really discouraged, can you help?", encouragement
+"I'm feeling really down, can you help me?", encouragement
+"I'm struggling to cope, can you provide some guidance?", encouragement
+"I appreciate your patience.", feedback
+"I found this conversation quite helpful.", feedback
+"I love the way this chatbot works!", feedback
+"This chatbot is really helpful!", feedback
+"This is an awesome tool, thank you!", feedback
+"Your responses are very informative!", feedback
+"Bye, have a great day!", goodbye
+"Catch you later!", goodbye
+"Goodbye, see you later!", goodbye
+"See you next time!", goodbye
+"Take care, talk to you soon!", goodbye
+"I appreciate your help, thank you.", gratitude
+"I appreciate your patience and understanding!", gratitude
+"I appreciate your time and effort, it's been really valuable!", gratitude
+"I appreciate your time and effort.", gratitude
+"I'm grateful for your support.", gratitude
+"I'm really thankful for your guidance, it's been really helpful!", gratitude
+"I'm really thankful for your guidance.", gratitude
+"I'm so grateful for your kindness and generosity!", gratitude
+"I'm so grateful for your support, it means a lot to me!", gratitude
+"Thank you for being so helpful and supportive!", gratitude
+"Thank you for being so understanding and supportive!", gratitude
+"Thank you so much for your help, I really appreciate it!", gratitude
+"Thanks a lot, you made my day!", gratitude
+"Thanks a lot, you made my day, I really appreciate it!", gratitude
+"Thanks a lot, you've been a huge help!", gratitude
+"Thanks for being such a great listener!", gratitude
+"it's been really valuable!", gratitude
+"Good day to you!", greeting
+"Greetings! How's it going?", greeting
+"Hello, how are you?", greeting
+"Hey, I'm good thanks!", greeting
+"Hi, what's up?", greeting
+"Can you assist me with my project?", help
+"Can you help me figure this out?", help
+"Can you share some tips for managing stress?", help
+"Could you guide me through this issue?", help
+"How can I improve my focus?", help
+"I just need some help with my assignments.", help
+"I need help understanding this topic.", help
+"I'm not sure how to approach this problem.", help
+"I'm not sure how to handle this difficult situation.", help
+"I'm not sure how to handle this stressful situation.", help
+"I'm not sure how to navigate this difficult situation.", help
+"I'm not sure how to overcome this obstacle.", help
+"I'm not sure how to prioritize my tasks.", help
+"I'm not sure what to say.", help
+"Can you explain this concept to me?", inquiry
+"How can I improve my mental health?", inquiry
+"How can I stay motivated?", inquiry
+"What are some tips for managing stress?", inquiry
+"What are the symptoms of anxiety?", inquiry
+"Can you inspire me to keep going?", motivation
+"I need a little encouragement.", motivation
+"I need some advice on how to stay motivated.", motivation
+"I'm looking for a way to improve my mental health.", motivation
+"I'm looking for a way to improve my mood.", motivation
+"I'm looking for a way to improve my relationships.", motivation
+"I'm looking for a way to improve my self-esteem.", motivation
+"I'm looking for some motivation to study.", motivation
+"I'm struggling to find the motivation to work.", motivation
+"I need to prioritize my well-being.", self-care
+"I need to take a break and relax.", self-care
+"I need to take care of my physical health.", self-care
+"I want to start a self-care routine.", self-care
+"I want to start practicing mindfulness.", self-care
+"I appreciate the support you're providing.", thanks
+"I really appreciate your assistance!", thanks
+"I want to express my gratitude for your help.", thanks
+"I'm feeling really grateful for your encouragement.", thanks
+"I'm feeling really grateful for your guidance.", thanks
+"I'm feeling really grateful for your support.", thanks
+"I'm really thankful for your assistance!", thanks
+"Thank you for listening to me!", thanks
+"Thank you so much for this!", thanks
+"Thanks a lot, you made my day!", thanks
+"Thanks for your help!", thanks

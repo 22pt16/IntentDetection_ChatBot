@@ -1,7 +1,8 @@
 
-# 🤖 Chatbot Model with Sentiment & Intent Recognition 🌟
+# 🤖 VibeCheck-Chatbot Model with Sentiment & Intent Recognition 🌟
 
 Welcome to the **Chatbot Model** project! This application is a Java-based chatbot designed to support users with helpful quotes and responses based on intent recognition and sentiment analysis. It's perfect for mental health support, conversational AI, or as a foundational project for advanced chatbot applications. 🚀
+![Alt text](Output/chatbot_output.png)
 
 ---
 
@@ -9,9 +10,14 @@ Welcome to the **Chatbot Model** project! This application is a Java-based chatb
 
 - **💬 Intent Recognition**: Uses machine learning (Naive Bayes with Weka) to detect the user's intent.
 - **🧠 Sentiment Analysis**: Analyzes user sentiment using Stanford CoreNLP to enhance responses.
+- ![Alt text](Output/chatbot_2.png)
 - **📜 Quote Retrieval**: Provides relevant quotes based on the recognized intent.
+- ![Alt text](Output/chatbot_4.png)
 - **⚡ Real-time Processing**: Multithreaded for smooth and responsive interaction.
+- ![Alt text](Output/chatbot_3.png)
 - **📂 Data-Driven**: Uses CSV files for training intents and storing quotes for easy customization.
+
+
 
 ---
 
